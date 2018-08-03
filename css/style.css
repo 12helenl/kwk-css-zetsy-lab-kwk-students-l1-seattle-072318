@@ -1,7 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+*{
+ font-family: 'Karla', sans-serif;
+ color:#788;
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,3 +21,53 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.top-header {
+  font-size: 300%
+}
+
+#copyright {
+    position: relative;
+    left: 700px;
+}
+
+.necklace{
+  border: 6px solid #999;
+}
+
+.image1{
+  transition: all 0.5s ease;
+  background: #aaa;
+  padding: 6px;
+}
+.image1:hover {
+  background: #555;
+  padding: 6px;
+}
+.image2{
+  transition: all 0.5s ease;
+  background: #aaa;
+  padding: 6px;
+}
+.image2:hover {
+  background: #555;
+  padding: 6px;
+}
+.image3{
+  transition: all 0.5s ease;
+  background: #aaa;
+  padding: 6px;
+}
+.image3:hover {
+  background: #555;
+  padding: 6px;
+}
+.image4{
+  transition: all 0.5s ease;
+  background: #aaa;
+  padding: 6px;
+}
+.image4:hover {
+  background: #555;
+  padding: 6px;
+}
